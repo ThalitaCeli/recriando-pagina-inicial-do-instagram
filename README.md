@@ -1,9 +1,9 @@
 # Recriando a página inicial do Instagram 📷 
-## Este projeto é uma recriação da página de login do Instagram utilizando HTML5 e CSS3 construído no bootcamp Decola Dev Avanade 2021 da Digital Innovation One.
+## <p style='text-align: justify;'> Este projeto é uma recriação da página de login do Instagram utilizando HTML5 e CSS3 construído no bootcamp Decola Dev Avanade 2021 da Digital Innovation One. </p>
 
-![Imagem da tela inicial web](img/pag.png)
-![Imagem do tela responsivo para mobile](img/Responsivo.png)
-![Imagem do código HTML](img/VSCode.png)
+![Imagem da tela inicial web](prints/pag.png)
+![Imagem do tela responsivo para mobile](prints/responsivo.png)
+![Imagem do código HTML](prints/vscode.png)
 
 ### Tecnologias:
 
@@ -17,4 +17,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ### Agradecimentos:
-###### A oportunidade de aprender com os cursos da [Digital Innovation One] (https://web.digitalinnovation.one/home) e a parceria da Avanade no bootcamp [Decola Dev 2021] (https://web.digitalinnovation.one/track/decola-dev-avanade-2021).
+###### A oportunidade de aprender com os cursos da [Digital Innovation One](https://web.digitalinnovation.one/home) e a parceria da Avanade no bootcamp [Decola Dev 2021](https://web.digitalinnovation.one/track/decola-dev-avanade-2021).
