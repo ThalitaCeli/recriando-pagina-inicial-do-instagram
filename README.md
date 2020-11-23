@@ -1,9 +1,5 @@
 # Recriando a página inicial do Instagram 📷 
-## <p style='text-align: justify;'> Este projeto é uma recriação da página de login do Instagram utilizando HTML5 e CSS3 construído no bootcamp Decola Dev Avanade 2021 da Digital Innovation One. </p>
-
-![Imagem da tela inicial web](prints/pag.png)
-![Imagem do tela responsivo para mobile](prints/responsivo.png)
-![Imagem do código HTML](prints/vscode.png)
+## Este projeto é uma recriação da página de login do Instagram utilizando HTML5 e CSS3 construído no bootcamp Decola Dev Avanade 2021 da Digital Innovation One.
 
 ### Tecnologias:
 
@@ -17,4 +13,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ### Agradecimentos:
-###### A oportunidade de aprender com os cursos da [Digital Innovation One](https://web.digitalinnovation.one/home) e a parceria da Avanade no bootcamp [Decola Dev 2021](https://web.digitalinnovation.one/track/decola-dev-avanade-2021).
+#### A oportunidade de aprender com os cursos da [Digital Innovation One](https://web.digitalinnovation.one/home) e a parceria da Avanade no bootcamp [Decola Dev 2021](https://web.digitalinnovation.one/track/decola-dev-avanade-2021).
+
+#### Contatos:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalitac%C3%A9li/)](https://www.linkedin.com/in/thalitac%C3%A9li/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thalitaceli@gmail.com)](mailto:thalitaceli@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Thalitaceli-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ThalitaCeli)](https://twitter.com/ThalitaCeli)
+
+
+
