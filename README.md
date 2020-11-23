@@ -2,6 +2,7 @@
 ## Este projeto é uma recriação da página de login do Instagram utilizando HTML5 e CSS3 construído no bootcamp Decola Dev Avanade 2021 da Digital Innovation One.
 
 ![Layout da página inicial do instagram](https://github.com/ThalitaCeli/recriando-pagina-inicial-do-instagram/blob/main/layout/pag.png)
+![Layout mobile da página inicial do instagram](https://github.com/ThalitaCeli/recriando-pagina-inicial-do-instagram/blob/main/layout/responsivo.png)
 
 ### Tecnologias:
 
